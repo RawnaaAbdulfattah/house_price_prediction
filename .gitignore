@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+notebooks/
+data/
+*.csv
+house_price_api/house_price.pkl
+notebooks/data/house_prices.csv
