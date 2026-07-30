@@ -24,6 +24,11 @@ This project integrates a trained machine learning model with a robust backend A
 
 ---
 
+![House Price Predictor Web Interface](assets/GUI.png)
+![Prediction](assets/prediction1.png)
+
+---
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
